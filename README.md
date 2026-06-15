@@ -1,14 +1,14 @@
-# Java DSA Solutions
+# Java DSA Solutions 🧠
 
-Collection of Java solutions for LeetCode and DSA problems.
+Collection of Data Structures & Algorithms problems solved in Java.
 
 ## Topics Covered
-- Arrays
-- Strings
-- HashMaps
+- Arrays & Strings
+- HashMaps & HashSets
 - Linked Lists
-- Stacks
-- Queues
+- Stacks & Queues
 - Trees
+- Recursion
 
-Currently solving LeetCode problems regularly to improve problem-solving skills and prepare for software engineering interviews.
+## Progress
+- LeetCode: 143+ problems solved
